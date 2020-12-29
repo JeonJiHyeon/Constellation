@@ -1,66 +1,49 @@
 {
   "project_info": {
-    "project_number": "394582900859",
-    "firebase_url": "https://stargroup-appproject-default-rtdb.firebaseio.com",
-    "project_id": "stargroup-appproject",
-    "storage_bucket": "stargroup-appproject.appspot.com"
+    "project_number": "284403732794",
+    "project_id": "constellation-cc997",
+    "storage_bucket": "constellation-cc997.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:394582900859:android:24917524dc235bb9b162de",
+        "mobilesdk_app_id": "1:284403732794:android:281d0e771230ba28df8003",
         "android_client_info": {
-          "package_name": "org.techtown.starmuri"
+          "package_name": "org.techtown.Constellation"
         }
       },
       "oauth_client": [
         {
-          "client_id": "394582900859-01mqtpoe4s4jjvkj55immovpp4rr3gh1.apps.googleusercontent.com",
+          "client_id": "284403732794-gqd465tgp782oi90jasuh4k4bb8990f9.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.techtown.starmuri",
-            "certificate_hash": "73fe03bfdaf24721f59215a5bf7199c53301e8d2"
-          }
-        },
-        {
-          "client_id": "394582900859-77lrvg00skkdokno6l4123qirjl03o1h.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "org.techtown.starmuri",
-            "certificate_hash": "2369c4519e30873ee2d175643f3d515bf2ed4340"
-          }
-        },
-        {
-          "client_id": "394582900859-9c1msgltosq9g5jjfbpcjakeuoj1tr25.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "org.techtown.starmuri",
+            "package_name": "org.techtown.Constellation",
             "certificate_hash": "5793bb0afbf54c3008a6f8cc09505fd1da441ddb"
           }
         },
         {
-          "client_id": "394582900859-jev0c0jq1vv0kakietlfeh8qii8d3qpu.apps.googleusercontent.com",
+          "client_id": "284403732794-v64h4n3ekbr8135p0q2lhmt1kosps8n1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.techtown.starmuri",
-            "certificate_hash": "b3b88473b4a16824867c3c5d3bb5bb48a8a79c10"
+            "package_name": "org.techtown.Constellation",
+            "certificate_hash": "4229b432806d7e37f120ed540c021e7db60b445b"
           }
         },
         {
-          "client_id": "394582900859-r1603dh7chm6gvjeheenng4b7j5cmmh5.apps.googleusercontent.com",
+          "client_id": "284403732794-cvhug6km3euonmg6cu2quk380gsbu908.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB_WjgPeNTw70QTX4mKn5CyI9-_o70UvxQ"
+          "current_key": "AIzaSyB9Op215shTDxoYYQlQoL-P-fqRDtQpWq8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "394582900859-r1603dh7chm6gvjeheenng4b7j5cmmh5.apps.googleusercontent.com",
+              "client_id": "284403732794-cvhug6km3euonmg6cu2quk380gsbu908.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

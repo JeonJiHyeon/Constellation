@@ -7,7 +7,6 @@
     <string name="title_counter">Counter</string>
     <string name="join_in_constellation">Join In Constellation</string>
     <string name="sign_in_with_google">Sign in With Google</string>
-    <!--<string name="server_client_id">394582900859-r1603dh7chm6gvjeheenng4b7j5cmmh5.apps.googleusercontent.com</string>-->
-    <string name="server_client_id">394582900859-01mqtpoe4s4jjvkj55immovpp4rr3gh1.apps.googleusercontent.com</string>
+    <string name="server_client_id">284403732794-gqd465tgp782oi90jasuh4k4bb8990f9.apps.googleusercontent.com</string>
 
 </resources>

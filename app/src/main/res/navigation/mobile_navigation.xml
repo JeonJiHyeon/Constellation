@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="org.techtown.starmuri.ui.dashboard.DashboardFragment"
+        android:name="org.techtown.Constellation.ui.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" >
         <!--<action
@@ -27,7 +27,7 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="org.techtown.starmuri.ui.home.HomeFragment"
+        android:name="org.techtown.Constellation.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" >
         <!--
@@ -47,7 +47,7 @@
     </fragment>
     <fragment
         android:id="@+id/navigation_option"
-        android:name="org.techtown.starmuri.ui.option.OptionFragment"
+        android:name="org.techtown.Constellation.ui.option.OptionFragment"
         android:label="@string/title_option"
         tools:layout="@layout/fragment_option" >
         <!--
@@ -67,7 +67,7 @@
     </fragment>
     <fragment
         android:id="@+id/navigation_counter"
-        android:name="org.techtown.starmuri.ui.counter.CounterFragment"
+        android:name="org.techtown.Constellation.ui.counter.CounterFragment"
         android:label="@string/title_counter"
         tools:layout="@layout/fragment_option" >
         <!--
@@ -87,7 +87,7 @@
     </fragment>
     <fragment
         android:id="@+id/navigation_group"
-        android:name="org.techtown.starmuri.ui.group.GroupFragment"
+        android:name="org.techtown.Constellation.ui.group.GroupFragment"
         android:label="@string/title_group"
         tools:layout="@layout/fragment_option" >
         <!--
