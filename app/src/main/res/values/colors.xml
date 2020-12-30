@@ -6,4 +6,6 @@
     <color name="colorAccent">#54D6CA</color>
     <color name="default_text">#FFE68A</color>
     <color name="overlay">#b0000000</color>
+    <color name="two">#f0000000</color>\
+
 </resources>

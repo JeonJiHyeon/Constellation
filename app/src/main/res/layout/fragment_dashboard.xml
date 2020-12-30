@@ -67,17 +67,16 @@
                 android:layout_weight="1"
                 android:src="@drawable/ic_group_con_for_text" />
 
-            <TextView
-                android:id="@+id/title_topic"
+            <Spinner
+                android:id="@+id/spinner_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:layout_marginBottom="10dp"
-                android:layout_weight="7"
-                android:fontFamily="@font/nanumgothic_normal"
-                android:text="이번 주 주제 가져오는중..."
-                android:textColor="@color/default_text"
-                android:textStyle="bold|italic" />
+                android:layout_marginTop="13dp"
+                android:layout_marginRight="15dp"
+                android:layout_weight="5"
+                android:background="#00FFFFFF"
+                android:overlapAnchor="false"
+                android:popupBackground="@drawable/dropdown_border" />
 
         </LinearLayout>
 
